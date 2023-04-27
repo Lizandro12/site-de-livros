@@ -1,0 +1,36 @@
+.banner{
+    background: var(--azul-gradient);
+    color: var(--branco);
+    text-align: center;
+    padding: 2.5rem 2rem;
+}
+
+.banner__titulo{
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+
+.banner__texto{
+    font-size: 1.125rem;
+    font-weight: 500;
+    margin: 0.5rem 0 1.5rem 0;
+}
+
+.banner__pesquisa{
+    background: transparent;
+    border: solid 1px var(--branco);
+    color: var(--branco);
+    border-radius: 1.5rem;
+    padding: 1rem;
+    width: 100%;
+    outline: none;
+}
+
+.banner__pesquisa::placeholder {
+    font-family: var(--font-principal);
+    font-size: 0.875rem;
+    text-align: center;
+    color: var(--branco);
+    background: url(../img/Lupa.svg) no-repeat;
+    background-position: 1rem;
+}
