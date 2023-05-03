@@ -17,5 +17,5 @@
 }
 
 .swiper-pagination{
-    position: initial;
+    position: inherit;
 }
