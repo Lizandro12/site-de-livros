@@ -3,6 +3,7 @@
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
 @import url("styles/contacto.css");
+@import url("styles/rodape.css");
 @import url('https://fonts.googleapis.com/css2?family= Poppins :wght@300;400;500;600;700 & display=swap');
 :root{
     --cor-de-fundo:#EBECEE;
@@ -11,6 +12,7 @@
     --azul-gradient:linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --font-principal:'Poppins', sans-serif;
     --azul:#002F52;
+    --preto:#000000;
 }
 
 body{

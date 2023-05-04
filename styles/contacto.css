@@ -23,3 +23,20 @@
     margin-bottom: 1rem;
     font-weight: 300;
 }
+
+.contacto__email{
+    padding: 1rem;
+    border-radius: 1.5rem;
+    width: 90%;
+    outline: none;
+    border: solid 1px var(--azul);
+    color: var(--azul);
+}
+.contacto__email::placeholder{
+    font-family: var(--font-principal);
+    font-size: 0.9rem;
+    color: var(--azul);
+    background: url(../img/Email.svg) no-repeat;
+    background-position: 1rem;
+    padding: 3rem;
+}
