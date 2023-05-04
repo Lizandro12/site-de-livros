@@ -86,3 +86,31 @@
     width: 70%;
 }
 
+
+@media screen and (min-width:1024px) {
+    .carrossel__titulo{
+        font-size: 1.625rem;
+    }
+
+    .swiper-pagination{
+        margin: 2rem 0 3rem 0;
+    }
+
+    .swiper{
+        width: 60%;
+    }
+
+    .swiper-button-prev, .swiper-button-next{
+        display: block;
+        top: 60%;
+    }
+
+    .card{
+        width: 45%;
+        margin: 3rem auto;
+    }
+    .descricao__image-classification{
+        width: 30%;
+    }
+}
+

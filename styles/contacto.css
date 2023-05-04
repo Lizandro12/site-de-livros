@@ -40,3 +40,24 @@
     background-position: 1rem;
     padding: 3rem;
 }
+
+@media screen and (min-width:1024px) {
+    
+    .contacto{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .contacto__descricao{
+        width: 30%;
+    }
+    .contacto__email{
+        width: 30%;
+    }
+
+    .contacto__titulo{
+        font-size: 1.5rem;
+    }
+}

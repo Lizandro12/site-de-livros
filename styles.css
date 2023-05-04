@@ -5,6 +5,7 @@
 @import url("styles/contacto.css");
 @import url("styles/rodape.css");
 @import url('https://fonts.googleapis.com/css2?family= Poppins :wght@300;400;500;600;700 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family= Josefin +Sans:wght@100;200;300;400;500;600;700 & display=swap');
 :root{
     --cor-de-fundo:#EBECEE;
     --branco:#FFFFFF;
@@ -13,6 +14,7 @@
     --font-principal:'Poppins', sans-serif;
     --azul:#002F52;
     --preto:#000000;
+    --font-secundaria: 'Josefin Sans', sem serifa;
 }
 
 body{
