@@ -41,6 +41,8 @@
     padding: 3rem;
 }
 
+
+
 @media screen and (min-width:1024px) {
     
     .contacto{
@@ -48,6 +50,7 @@
         justify-content: center;
         align-items: center;
         gap: 40px;
+        padding: 2rem;
     }
 
     .contacto__descricao{
@@ -60,4 +63,5 @@
     .contacto__titulo{
         font-size: 1.5rem;
     }
+
 }
