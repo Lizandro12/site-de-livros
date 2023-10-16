@@ -1,2 +1,2 @@
 # site de livros
- site de venda de livros
+ site de uma loja de livros
